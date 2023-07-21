@@ -11,7 +11,7 @@ $(document).ready(function() {
   var POINT_Y_POSTFIX = ''; // postfix for x values, eg ' kg'
 
   var POINT_NAME = 'district'; // point names that appear in tooltip
-  var POINT_COLOR = 'rgba(0,0,255,0.7)'; // eg `black` or `rgba(10,100,44,0.8)`
+  var POINT_COLOR = 'black'; // eg `black` or `rgba(10,100,44,0.8)`
   var POINT_RADIUS = 10; // radius of each data point
 
   var X_AXIS = 'Median Household Income, USD'; // x-axis label, label in tooltip
